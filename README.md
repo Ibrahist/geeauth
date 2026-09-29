@@ -1,9 +1,7 @@
 ![Progress](https://img.shields.io/badge/Progress-85%25-success?style=for-the-badge)
 
 > 🚧 **Project Progress: 85% Complete**
->
-> GeeAuth is currently **85% complete**. Core authentication, authorization, database integration, and OAuth functionality are implemented. The remaining work consists mainly of refinements, testing, and final improvements.
-A modern **authentication and authorization application** built with **Next.js**, **Prisma**, **Better Auth**, and **Clerk**.
+
 
 GeeAuth is designed as a practical authentication project demonstrating how modern Next.js applications can implement secure user authentication, authorization, database integration, and social sign-in.
 
