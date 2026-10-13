@@ -2,7 +2,6 @@
 
 > 🚧 **Project Progress: 85% Complete**
 
-
 GeeAuth is designed as a practical authentication project demonstrating how modern Next.js applications can implement secure user authentication, authorization, database integration, and social sign-in.
 
 ## 🚀 Features
